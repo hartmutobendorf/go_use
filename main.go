@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hartmutobendorf/go_mod_deps/go_mod"
+	"github.com/hartmutobendorf/go_mod"
 )
 
 func main() {
